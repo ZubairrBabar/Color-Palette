@@ -1,0 +1,227 @@
+div.container{
+    /* border: 1px black solid; */
+    width: 1150px;
+    height: 520px;
+   margin: 10px 0 0 60px;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+    
+
+
+.item1{
+    background-color: #f6e58d;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+
+}
+.item2{
+    background-color:#f9ca24;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item3{
+    background-color:#7ed6df;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item4{
+    background-color: #22a6b3;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item5{
+    background-color: #ffbe76;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item6{
+    background-color:#f0932b;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item7{
+    background-color:#e056fd;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item8{
+    background-color :#be2edd;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item9{
+    background-color:#ff7979;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item10{
+    background-color:#eb4d4b;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item11{
+    background-color:#686de0;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item12{
+    background-color :#4834d4;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item13{
+    background-color: #badc58;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item14{
+    background-color:#6ab04c;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item15{
+    background-color:#30336b;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item16{
+    background-color:#130f40;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item17{
+    background-color: #dff9fb;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item18{
+    background-color:#c7ecee;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item19{
+    background-color:#95afc0;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.item20{
+    background-color :#535c68;
+    width: 230px;
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+}
+.main{
+    width: 250px;
+    height: 30px;
+    background-color: black;
+    position: absolute;
+    right: 500px;
+    top: 5px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-size: large;
+    /* font-weight: bold; */
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+.last{
+    margin-left: 70%;
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+
+}

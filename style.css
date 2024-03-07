@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(54, 54, 209);
+    font-family: sans-serif;
+
+}
+
+div.container{
+   width: 100%;
+   height: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-evenly;
+    margin-top: 50px;
+    
+   
+
+}
+
+
+
+div.items{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    /* box-shadow:3px 3px 5px  rgb(22, 17, 51); */
+   padding: 10px 0 0 10px;
+    font-size: large;
+    font-weight: 500;
+ 
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
